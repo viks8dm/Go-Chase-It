@@ -1,4 +1,4 @@
-## Ball chasing Robot (ROS)
+# Ball chasing Robot (ROS)
 
 Project-2 of Udacity's Robotics Software Engineer Nanodegree Program
 
@@ -60,8 +60,8 @@ Within `~/catkin_ws/src/` download or clone folders of this repository:
 
 ```
 $ cd ~/catkin_ws/src/
-$ git clone https://github.com/viks8dm/vmGoChaseIt.git/my_robot my_robot
-$ git clone https://github.com/viks8dm/vmGoChaseIt.git/ball_chaser ball_chaser
+$ git clone https://github.com/viks8dm/Go-Chase-It.git/my_robot my_robot
+$ git clone https://github.com/viks8dm/Go-Chase-It.git/ball_chaser ball_chaser
 ```
 
 Go back to catkin workspace and build it
