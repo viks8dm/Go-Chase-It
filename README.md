@@ -103,8 +103,4 @@ $ source devel/setup.bash
 $ roslaunch ball_chaser ball_chaser.launch
 ```
 
-This will launch ball-chaser node that processes the camera image looking for white ball. Whenever white ball is in sight, robot is commanded to move towards it. A demo can be seen in the video below
-
----
-
-![video](./snapshots/video_ball_chasing.mov)
+This will launch ball-chaser node that processes the camera image looking for white ball. Whenever white ball is in sight, robot is commanded to move towards it. A demo can be seen in the [video](./snapshots/video_ball_chasing.mov) within snapshots folder.
