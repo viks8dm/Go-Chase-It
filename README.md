@@ -1,5 +1,4 @@
-
-### Ball chasing Robot (ROS)
+## Ball chasing Robot (ROS)
 
 Project-2 of Udacity's Robotics Software Engineer Nanodegree Program
 
