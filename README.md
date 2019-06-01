@@ -107,6 +107,4 @@ This will launch ball-chaser node that processes the camera image looking for wh
 
 ---
 
-<video width="320" height="240" controls>
-  <source src="./snapshots/video_ball_chasing.mov" type="video/mp4">
-</video>
+![video](./snapshots/video_ball_chasing.mov)
